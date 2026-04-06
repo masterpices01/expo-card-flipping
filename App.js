@@ -13,7 +13,19 @@ ALL_ICONS.push("🐡");
 ALL_ICONS.push("🐚");
 ALL_ICONS.push("🦭");
 ALL_ICONS.push("🪸");
+ALL_ICONS.push("🐢");
+ALL_ICONS.push("🐧");
+ALL_ICONS.push("⚓");
+ALL_ICONS.push("🫧");
+ALL_ICONS.push("🏝️");
 ALL_ICONS.push("🦐");
+ALL_ICONS.push("🌊");
+ALL_ICONS.push("💭");
+ALL_ICONS.push("💧");
+ALL_ICONS.push("☀️");
+ALL_ICONS.push("🏖️");
+ALL_ICONS.push("🧊");
+
 const STORAGE_KEY = 'MEMORY_GAME_SETTINGS_V1';
 
 const webStyles = Platform.OS === 'web' ? {
