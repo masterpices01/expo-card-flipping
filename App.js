@@ -13,7 +13,15 @@ ALL_ICONS.push("🐡");
 ALL_ICONS.push("🐚");
 ALL_ICONS.push("🦭");
 ALL_ICONS.push("🪸");
+ALL_ICONS.push("🐸");
+ALL_ICONS.push("🐊");
 ALL_ICONS.push("🐢");
+ALL_ICONS.push("🦠");
+ALL_ICONS.push("⭐️");
+
+ALL_ICONS.push("⚡️");
+ALL_ICONS.push("☄️");
+ALL_ICONS.push("🌈");
 ALL_ICONS.push("🐧");
 ALL_ICONS.push("⚓");
 ALL_ICONS.push("🫧");
@@ -25,6 +33,8 @@ ALL_ICONS.push("💧");
 ALL_ICONS.push("☀️");
 ALL_ICONS.push("🏖️");
 ALL_ICONS.push("🧊");
+window.icons = ALL_ICONS;
+console.error(window.icons);
 
 const STORAGE_KEY = 'MEMORY_GAME_SETTINGS_V1';
 
